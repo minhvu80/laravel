@@ -1,5 +1,4 @@
-<?
-    // update fresh Inventory Attributes, the one that missing Attributes
+<?    
     require_once("../../common/library/database/mssql/mssql.inc.php");    
 	require_once("../../common/library/channeladvisor/class.CAAPI.php");
     $db = new MsSQL();    
